@@ -1,2 +1,2 @@
 # eucharistic-congress
-child WP theme
+Eucharistic Congress child theme for WordPress
