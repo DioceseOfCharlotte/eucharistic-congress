@@ -2,7 +2,7 @@
  * Theme Name:   Eucharistic Congress
  * Theme URI:    https://github.com/DioceseOfCharlotte/eucharistic-congress
  * Description:  Eucharistic Congress theme for WordPress
- * Version:      0.1.0
+ * Version:      0.1.1
  * Author:       Billy G && Marty Helmick
  * Author URI:   https://github.com/m-e-h
  * Tags:         child-theme
@@ -13,21 +13,4 @@
  * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
  */
 
-
-.archive .app-main {
-    display: flex;
-    flex-wrap: wrap;
-    max-width: var(--content-width);
-}
-
-.archive-header {
-    width: 100%;
-    margin-bottom: 2rem;
-}
-
-.archive .entry {
-    flex: 1 1 auto;
-    width: calc(33% - 1.5rem);
-    margin-right: 1.5rem;
-}
 
